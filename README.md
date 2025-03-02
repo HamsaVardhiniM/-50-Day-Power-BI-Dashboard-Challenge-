@@ -11,7 +11,8 @@ This repository contains **50 Power BI dashboards**, created as part of my **50-
 
 ## 📁 Repository Structure  
 - `Dashboards/` → Contains **PBIX files** for each dashboard   
-- `Docs/` → Insights, explanations, and key takeaways  
+- `Docs/` → Insights, explanations, and key takeaways
+- images add pannannum
 
 ##  Featured Dashboards  
 Day1. **Amazon : Rating Summary Dashboard** – Analyzing the rating summary of amazon products and categories. 
