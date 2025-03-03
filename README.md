@@ -16,7 +16,7 @@ This repository contains **50 Power BI dashboards**, created as part of my **50-
 
 ##  Featured Dashboards  
 Day1. **Amazon : Rating Summary Dashboard** – Analyzing the rating summary of amazon products and categories. 
-2. **Customer Segmentation Dashboard** – Understanding user behavior  
+Day2. **Retail Sales Analytics** – Analyzing sales trends by gender  
 3. **HR Analytics Dashboard** – Employee attrition and workforce insights  
 ... *(and more!)*  
 
