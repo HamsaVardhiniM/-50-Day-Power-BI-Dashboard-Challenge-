@@ -21,7 +21,7 @@ Day3. **Coca-Cola Sales Dashboard** – Beverages Sales and Profit Influence ins
 Day4. **Sales Analysis Dashboard** - Analyzes Sales Data.
 Day5: **Campaign Performance Analysis**- Dashboards analyzing the performance of three different online campaigns.
  
-... *(and more!)*  
+
 
 ##  View Interactive Dashboards  
  Access the live dashboards via **[](#)** *(Insert Link)*  
