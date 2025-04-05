@@ -18,7 +18,7 @@ This repository contains **50 Power BI dashboards**, created as part of my **50-
 Day1. **Amazon : Rating Summary Dashboard** – Analyzing the rating summary of amazon products and categories.  
 Day2. **Retail Sales Analytics** – Analyzing sales trends by gender.  
 Day3. **Coca-Cola Sales Dashboard** – Beverages Sales and Profit Influence insights.  
-Day4. **Sales Analysis Dashboard** - Analyzes Sales Data.
+Day4. **Sales Analysis Dashboard** - Analyzes Sales Data.  
 Day5: **Campaign Performance Analysis**- Dashboards analyzing the performance of three different online campaigns.
  
 
