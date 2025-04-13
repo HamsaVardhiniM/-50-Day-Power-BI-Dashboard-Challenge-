@@ -19,7 +19,8 @@ Day1. **Amazon : Rating Summary Dashboard** – Analyzing the rating summary of 
 Day2. **Retail Sales Analytics** – Analyzing sales trends by gender.  
 Day3. **Coca-Cola Sales Dashboard** – Beverages Sales and Profit Influence insights.  
 Day4. **Sales Analysis Dashboard** - Analyzes Sales Data.  
-Day5: **Campaign Performance Analysis**- Dashboards analyzing the performance of three different online campaigns.
+Day5: **Campaign Performance Analysis**- Dashboards analyzing the performance of three different online campaigns.  
+Day6: **TN 2021 Elections Aanlysis Dashboard**- Dashborad that analyzes Vote Margins , alliance wise Results and more.
  
 
 
