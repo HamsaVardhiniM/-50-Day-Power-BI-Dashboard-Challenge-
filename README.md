@@ -25,7 +25,7 @@ Day6: **TN 2021 Elections Aanlysis Dashboard**- Dashborad that analyzes Vote Mar
 
 
 ##  View Interactive Dashboards  
- Access the live dashboards via **[](#)** *(Insert Link)*  
+ Access the live dashboards and explore
 
 ## 🔗 Connect With Me  
  **LinkedIn:** [hamasavardhini](https://www.linkedin.com/in/hamsa-vardhini-m-6924a7253/)  
