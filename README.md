@@ -5,7 +5,7 @@
 This repository contains **50 Power BI dashboards**, created as part of my **50-day challenge** to enhance data visualization and analytical skills. Each dashboard explores different datasets, industries, and key insights.  
 
 ##  About the Challenge  
-- **Duration:** 50 Days  
+- **Duration:** A week 
 - **Tools Used:** Power BI, DAX, SQL, Excel  
 - **Objective:** Build **one dashboard per day** using real-world datasets  
 
