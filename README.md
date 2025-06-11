@@ -2,7 +2,7 @@
 
 # 📊  Power BI Dashboard Challenge  
 
-This repository contains ** Power BI dashboards**, created as part of my **PoweBI -Dashboards challenge** to enhance data visualization and analytical skills. Each dashboard explores different datasets, industries, and key insights.  
+This repository contains Power BI dashboards, created as part of my PoweBI -Dashboards challenge to enhance data visualization and analytical skills. Each dashboard explores different datasets, industries, and key insights.  
 
 ##  About the Challenge  
 - **Duration:** A week 
